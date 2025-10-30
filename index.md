@@ -2,12 +2,12 @@
 
 [![签到状态](https://github.com/Yxini-p/189pan/actions/workflows/main.yml/badge.svg)](https://github.com/Yxini-p/189pan/actions/workflows/main.yml) [![项目主页](https://img.shields.io/badge/GitHub-项目主页-blue?logo=github)](https://github.com/Yxini-p/189pan)
 
-**最后更新:** 2025-10-30 10:57:14 CST
+**最后更新:** 2025-10-30 21:48:06 CST
 
 ## 快速导航
 
 - 🔄 [查看Action运行记录](https://github.com/Yxini-p/189pan/actions)
-- 📋 [查看最新运行](https://github.com/Yxini-p/189pan/actions/runs/18928388686)
+- 📋 [查看最新运行](https://github.com/Yxini-p/189pan/actions/runs/18942844475)
 - 🏠 [返回项目主页](https://github.com/Yxini-p/189pan)
 - ⚙️ [手动触发签到](https://github.com/Yxini-p/189pan/actions/workflows/main.yml)
 
@@ -16,17 +16,18 @@
 # 天翼云盘自动签到抽奖程序
 
 ## 执行概览
-- **启动时间**: 2025-10-30 10:57:14
+- **启动时间**: 2025-10-30 21:48:07
 - **账户数量**: 1 个
 
 ## 账户1
+登录过程出错: HTTPSConnectionPool(host='open.e.189.cn', port=443): Max retries exceeded with url: /api/logbox/oauth2/autoLogin.do?appId=cloud&version=v1.1&clientType=20010&format=redirect&paras=FFFD3EB7023CDC34EA82E0D1CF548844DACFC4CCD99DB048E1C09DE5FC5EA515A40F218FDDE84E75491BD8C43CB35D3FD44F7E370B100FE30FA0BC26590AD1731F6760757C3BFB74FE5201F16A965AE8B7BFA643FE895A1CCC58F7B16396E0A23C55D1DCC62C6CA5F30AA12A714937A32EDEE017E0DA6E92B7BAAE53DEE5543BB0F4BE9E98D0910040CEC2A8396D7B9FDE12D0B57946F01BC7485B8F5F4DF35A88CEC4EC936AAFD25B4FED17CFB4D8F91EC531BEF02A65874948B46A262149C1544297E56DBE66E560F4EB4A8E226B1ACFCFEF8CAC7C397DE8F27F5F95014CC5275DC2AB67E67C7C4F6E2C1B90E9AB08463FA243890B2E335F8AF30A9F144954AA3826F1BEA72591DF1341D8D86619D8C02A519EBDA32A13B2660415703F66452BC1978088830A3C3231C1573C2487D9C8019E8A4BFACE78243FC34183F175D3ABD09277951C775267CFEF42BBA63DB874958237ECBC5FF6302035998DA14570FFD9D8439E58D0672BC6CA1A5F6C4162043E8864F22EFA3E29473958C2194A13D9ACDCD62BFAB8A404B5200E47B2FD6F05B959C92FBD7ECB6ED7E84400098CC18FEED443E66F6DC53B3EBC3FCBADF601277ADC40CE94CAE11DDF6299A8D7CDEF43631E12D87E9D0E59F460BE18B0EF93E4C41BC39E99976EFF3DEAA42FB79363F29483839EF8FDF379049E43862E6E9E103C56F4155185FE5BFD3C3EB7BA522AEBD7D4968C7C8D7B08A4C2F8DB08DEEB4A9D17F1BA8DE3BA&sign=BE786E90A28EE8CA3F3E0A3DE112F485AC2C255B (Caused by NewConnectionError('<urllib3.connection.HTTPSConnection object at 0x7f7fcc8d0c10>: Failed to establish a new connection: [Errno 101] Network is unreachable'))
 ### 执行结果
 - **登录状态**: 登录失败
 - **签到结果**: 
 
 ---
 ## 执行统计
-- **结束时间**: 2025-10-30 10:57:19
-- **运行时长**: 4.57 秒
+- **结束时间**: 2025-10-30 21:52:43
+- **运行时长**: 275.97 秒
 
 ✅ **所有账户处理完成！**
